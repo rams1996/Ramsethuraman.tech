@@ -1,0 +1,76 @@
+{
+    "profiles":[
+        {
+            "imageUrl": "/assets/images/Leetcode.jpg",
+            "title": "Leetcode Profile",
+            "githubUrl": "https://leetcode.com/Ramsethuraman/",
+            "text": "My leetcode profile where I have optimized over 500 SQL and Data Structures and Algorithms"
+        },
+        {
+            "imageUrl": "/assets/images/BinarySearch.jpg",
+            "title": "Binary Search Profile",
+            "githubUrl": "https://binarysearch.com/@/ramsethuraman",
+            "text": "My binarysearch.com profile where I code regularly with friends and write articles"
+        },
+        {
+            "imageUrl": "/assets/images/DailyCodingChallenges.jpg",
+            "title": "Coding Challenges",
+            "githubUrl": "https://github.com/rams1996/Daily-coding-assignments",
+            "text": "My recent compilation of online coding contest questions I've solved starting December 2020"
+        },
+        {
+            "imageUrl": "/assets/images/aws.jpg",
+            "title": "Aws Developer Certification",
+            "githubUrl": "https://drive.google.com/file/d/1BE30ghAvdJVT1VTYOmEN8XtZiWeuwYoL/view?usp=sharing",
+            "text": "My AWS certified developer - associate (DVA) certification where I scored 893/1000"
+        },
+        {
+            "imageUrl": "/assets/images/Graphs.jpg",
+            "title": "Graph Algorithms",
+            "githubUrl": "https://github.com/rams1996/Graph-Based-Algorithms",
+            "text": "Compilation of selected graph based algorithms I've optimized using Java and Python"
+        },
+        {
+            "imageUrl": "/assets/images/DynamicProgramming.jpg",
+            "title": "Dynamic Programming",
+            "githubUrl": "https://github.com/rams1996/Dynamic-Programming",
+            "text": "Compilation of selected Dynamic Programming problems I've optimized using Java and Python"
+        },
+        {
+            "imageUrl": "/assets/images/Trees.jpg",
+            "title": "Tree Based Algorithms",
+            "githubUrl": "https://github.com/rams1996/Trees",
+            "text": "Compilation of selected tree based challenges I've optimized using Java and Python"
+        },
+        {
+            "imageUrl": "/assets/images/LinkedList.jpg",
+            "title": "Linked List Challenges",
+            "githubUrl": "https://github.com/rams1996/Linked-List",
+            "text": "Compilation of selected Linked List based challenges I've optimized using Java and Python"
+        },
+        {
+            "imageUrl": "/assets/images/Hashing.jpg",
+            "title": "Hash Table",
+            "githubUrl": "https://github.com/rams1996/Hash-Table",
+            "text": "Compilation of selected Hash Table based algorithms I've optimized using Java and Python"
+        },
+        {
+            "imageUrl": "/assets/images/Greedy.jpg",
+            "title": "Greedy Algorithms",
+            "githubUrl": "https://github.com/rams1996/Greedy-Algorithms",
+            "text": "Compilation of selected Greedy algorithms I've optimized using Java and Python"
+        },
+        {
+            "imageUrl": "/assets/images/BrainTeaser.jpg",
+            "title": "Brain Teasers",
+            "githubUrl": "https://github.com/rams1996/Brain-Teasers",
+            "text": "Compilation of selected Brain Teasers I've optimized using Java and Python"
+        },
+        {
+            "imageUrl": "/assets/images/SystemDesign.jpg",
+            "title": "System Development Optimization",
+            "githubUrl": "https://github.com/rams1996/System-Development",
+            "text": "Compilation of selected Design based questions I've optimized to O(1) time complexity"
+        }
+    ]
+}

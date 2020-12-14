@@ -1,0 +1,101 @@
+:root {
+  font-size: 16px;
+  --text-primary: #ffffff;
+  --text-secondary: #E35757;
+  --text-title: #08FDC2;
+  --bg-primary: #1a1f27;
+  --bg-secondary: #0f1014;
+  --transition-speed: 300ms;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.contentBox {
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.contentBox::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px var(--bg-secondary);
+  background-color: transparent;
+}
+
+.contentBox::-webkit-scrollbar {
+  position: relative;
+  width: 10px;
+  background-color: var(--bg-primary);
+}
+
+.contentBox::-webkit-scrollbar-thumb {
+  background-color: var(--bg-secondary);
+}
+
+.contentBox img {
+  width: 100%;
+  margin: auto;
+  display: block;
+  align-items: center;
+}
+
+.tsparticles-canvas-el {
+  height: 100vh !important;
+}
+
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+
+a, a:hover {
+	text-decoration: none;
+}
+
+.socialbtns, .socialbtns ul, .socialbtns li {
+  margin: 0;
+  padding: 5px;
+}
+
+.socialbtns li {
+    margin: 10px 20px;
+    font-size: 1.2rem;
+    list-style: none outside none;
+    display: inline-block;
+}
+
+.socialbtns .fa {
+	color: rgb(255, 255, 255);
+	-moz-border-radius: 22px;
+	-webkit-border-radius: 22px;
+  -o-border-radius: 22px;
+  transition: 100ms;
+}
+
+.socialbtns .fa:hover {
+	color: var(--text-secondary);
+}
+
+@media only screen and (max-width: 600px) {
+  .mainContainer {
+    flex-direction: column-reverse;
+    height: 100vh;
+    overflow-y: scroll;
+  } 
+  .contentBox {
+    margin-bottom: 5rem;
+  }
+}
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .mainContainer {
+      flex-direction: column-reverse;
+      height: 100vh;
+      overflow-y: scroll;
+    }
+
+}

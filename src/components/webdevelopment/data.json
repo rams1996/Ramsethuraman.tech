@@ -1,0 +1,61 @@
+{
+    "articles": [
+        
+        {
+            "title": "My Portfolio Website",
+            "description": "Built the portfolio website using React and Bootstrap along with AWS S3 and CloudFront to host the website ",
+            "isPaper": false,
+            "published": true,
+            "url": "#",
+            "imgUrl": "/assets/images/MyPortfolioWebsite.jpg"
+        },
+
+        {
+            "title": "Tik Tok Clone Website",
+            "description": "Built a complete website with features similar to Tik Tok using MERN stack and handled large video data",
+            "isPaper": false,
+            "published": true,
+            "url": "https://github.com/rams1996/TikTokClone",
+            "imgUrl": "/assets/images/TikTok50.jpg"
+        },
+        {
+            "title": "Online Shopping Store",
+            "description": "This is a shopping website which consists of functionalities similar to Amazon",
+            "isPaper": false,
+            "published": true,
+            "url": "https://github.com/rams1996/ShoppingStore",
+            "imgUrl": "/assets/images/ShoppingStore50.jpg"
+        }, 
+        {
+            "title": "FreshVotes- Ticketing System",
+            "description": "FreshVotes is a project tracking app. It keeps you to to date with your job request for better collaboration",
+            "published": true,
+            "url": "https://github.com/rams1996/FreshVotes",
+            "imgUrl": "/assets/images/FreshVotes.jpg"
+        },
+        {
+            "title": "Bookish-Library Manager",
+            "description": "Created an easy to use Library Management System using Python Flask framework and PostgreSQL",
+            "isPaper": false,
+            "published": true,
+            "url": "https://github.com/rams1996/Bookish-LibraryManagementSoftware",
+            "imgUrl": "/assets/images/LibraryManagementSystem.jpg"
+        },   
+        {
+            "title": "Full Stack Online Museum",
+            "description": "A backend web application which stores and handles the data of movies/artifacts.",
+            "isPaper": false,
+            "published": true,
+            "url": "https://github.com/rams1996/Full-Stack-Online-Museum-Platform",
+            "imgUrl": "/assets/images/Museum50.jpg"
+        },   
+          {
+            "title": "Codestrips- Comic Strip App",
+            "description": "Created a web app for comic strips using expressjs and sql along with javascript",
+            "isPaper": false,
+            "published": true,
+            "url": "https://github.com/rams1996/Codestrips",
+            "imgUrl": "/assets/images/AvatarCreation.jpg"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "articles": [
+
+        {
+            "title": "RamBase - Database Engine",
+            "description": "Built a Relational Database Engine from scratch similar to SQLite using B+ trees for indexing",
+            "isPaper": false,
+            "published": true,
+            "url": "https://github.com/rams1996/RamBase-RelationalDatabaseEngine",
+            "imgUrl": "/assets/images/Database50.jpg"
+        },
+        {
+            "title": "PathFinding Visualizer",
+            "description": "Visualized algorithms to find the shortest path amidst obstacles which are used in Uber and Google maps",
+            "isPaper": false,
+            "published": true,
+            "url": "https://github.com/rams1996/PathFindingVisualizer",
+            "imgUrl": "/assets/images/PathFinding50.jpg"
+        },
+        {
+            "title": "Big Data Tweet Analysis",
+            "description": "A Big Data engine to analyze live stream of tweets using Spark, Kibana, Kafka and Elastic Search",
+            "isPaper": false,
+            "published": true,
+            "url": "https://github.com/rams1996/Big-Data-Tweet-Analysis",
+            "imgUrl": "/assets/images/TweetAnalysis50.jpg"
+        },
+
+
+        {
+            "title": "Voice Based User Recognition",
+            "description": "A highly scalable voice recognition algorithm to recognize the voice of users to give personalized suggestions",
+            "isPaper": false,
+            "published": true,
+            "url": "https://github.com/rams1996/User-Authentication-using-Voice-Recognition",
+            "imgUrl": "/assets/images/VoiceRecognition50.jpg"
+        },  
+        {
+            "title": "Big Data Topic Labelling",
+            "description": "A software to suggest topics for a list of words based on their meaning and usage",
+            "isPaper": false,
+            "published": true,
+            "url": "https://github.com/rams1996/NETL-Automatic-Topic-Labelling-",
+            "imgUrl": "/assets/images/TopicLabelling50.jpg"
+        },
+        {
+            "title": "Minesweeper Web Game",
+            "description": "A casual javascript based optimized version of the old game Minesweeper for web",
+            "isPaper": false,
+            "published": true,
+            "url": "https://github.com/rams1996/Minesweeper-Game",
+            "imgUrl": "/assets/images/Minesweeper50.jpg"
+        },
+        {
+            "title": "Dave - Adventure Game",
+            "description": "Developed three levels of an adventure game using C++ without using any libraries",
+            "isPaper": false,
+            "published": true,
+            "url": "https://github.com/rams1996/Dave-Full-game-3-levels-",
+            "imgUrl": "/assets/images/Dave50.jpg"
+        },
+
+        {
+            "title": "Neural Movie Recommendation",
+            "description": "A highly accurate Neural Collaborative Filtering Movie Recommendation System based on implicit feedback",
+            "isPaper": false,
+            "published": true,
+            "url": "https://github.com/rams1996/Neural-Collaborative-Filtering-approach-for-Movie-Recommendation-System",
+            "imgUrl": "/assets/images/MovieRecommendation50.jpg"
+        },
+       {
+            "title": "Community Identification",
+            "description": "Detected real world communities in social networks. Completed phase-1 and currently working on phase-2",
+            "isPaper": false,
+            "published": false,
+            "url": "https://github.com/rams1996/Community-Selection-In-Social-Media",
+            "imgUrl": "/assets/images/CommunityDetection50.jpg"
+        },
+        {
+            "title": "COOL Compiler Development",
+            "description": "Working on developing a full fledged compiler from scratch for COOL programming language",
+            "isPaper": false,
+            "published": false,
+            "url": "https://github.com/rams1996/COOL-Compiler-Development",
+            "imgUrl": "/assets/images/Compiler50.jpg"
+        }
+
+    ]
+}
